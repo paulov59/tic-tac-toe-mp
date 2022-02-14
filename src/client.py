@@ -1,4 +1,3 @@
-from tabnanny import check
 import pygame
 from network import Network, wait_player
 from pygame.locals import MOUSEBUTTONDOWN, Rect, QUIT
